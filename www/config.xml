@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns       = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.example.fileupload"
+        version     = "1.0">
+
+    <name>File Upload</name>
+
+    <description>
+        A demo app to show file upload on devices
+    </description>
+
+    <author href="http://blog.lkatney.com" email="lakshay.katney@gmail.com">
+         @ lkatney
+    </author>
+
+    <!-- misc -->
+    <preference name="phonegap-version" value="3.6.3" />
+    <preference name="webviewbounce"    value="false"/>
+
+    <preference name="orientation"                value="portrait" />
+    <preference name="target-device" value="handset" />
+
+
+
+    <!-- plugins -->
+    <gap:plugin name="org.apache.cordova.camera" version="0.2.9"/>
+    <gap:plugin name="org.apache.cordova.file" version="1.0.1"/>
+
+    <!--whitelist all domains -->
+    <access origin="*" />
+
+</widget>

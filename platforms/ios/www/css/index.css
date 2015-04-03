@@ -1,0 +1,11 @@
+body{
+    padding : 20px;
+}
+
+.table-responsive, .buttons{
+    margin-top: 50px;
+}
+
+h3, caption{
+    text-align: center !important;
+}
