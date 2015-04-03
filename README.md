@@ -7,8 +7,8 @@ For phonegap, go to www and zip whole files and make a build from phoneGap
 
 ![alt tag](/info/images/IOS.png)
 
-Demo:
+Demo Videos:
 
-![alt tag](https://youtu.be/Fr1H5Su3x7U)
+Go to https://youtu.be/Fr1H5Su3x7U
 
-![alt tag](https://youtu.be/JxWwS03emsM)
+Go to https://youtu.be/JxWwS03emsM
