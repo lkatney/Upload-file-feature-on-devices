@@ -1,4 +1,5 @@
-# Upload-file-feature-on-devices
+# Add file uploading feature to devices +PhoneGap
+
 Working cordova & phoneGap code to add file upload feature(like images, videos etc) from devices and store it somewhere.
 
 For cordova, run the full strcuture
